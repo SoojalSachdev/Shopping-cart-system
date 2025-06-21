@@ -1,0 +1,5 @@
+1,Dress,2000.0
+2,Shoes,6000.0
+3,Wallet,1500.0
+4,Makeup,5000.0
+5,Hair Dryer,5000.0
